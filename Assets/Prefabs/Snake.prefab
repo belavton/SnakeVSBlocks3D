@@ -4993,7 +4993,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   snake: {fileID: 4433084468428260302}
-  speed: 6
+  speed: 10.05
   sensitivity: 0.3
   game: {fileID: 1645817561}
 --- !u!114 &1645817560
